@@ -1,5 +1,6 @@
 package com.dtcc.exams.assessment.part3;
-/*
+
+import com.dtcc.exams.part3.RockPaperScissors;
 import org.junit.Assert;
 import org.junit.Test;
 
@@ -24,4 +25,3 @@ public class PaperEvaluatorTest implements EvaluatorTestInterface {
         Assert.assertEquals(expected, actual);
     }
 }
-*/

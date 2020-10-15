@@ -1,5 +1,5 @@
 package com.dtcc.exams.assessment.part5;
-/*
+
 import com.dtcc.exams.part5.ElectionLand;
 import org.junit.Assert;
 import org.junit.Test;
@@ -49,4 +49,3 @@ public class ElectionLandTest {
     }
 
 }
-*/

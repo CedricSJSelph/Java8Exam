@@ -1,5 +1,5 @@
 package com.dtcc.exams.assessment.part6;
-/*
+
 import com.dtcc.exams.part6.LoveLetter;
 import org.junit.Assert;
 import org.junit.Test;
@@ -45,4 +45,3 @@ public class LoveLetterTest {
     }
 
 }
-*/
