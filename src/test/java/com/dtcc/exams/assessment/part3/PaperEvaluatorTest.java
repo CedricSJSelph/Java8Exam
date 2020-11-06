@@ -1,5 +1,4 @@
 package com.dtcc.exams.assessment.part3;
-
 import com.dtcc.exams.part3.RockPaperScissors;
 import org.junit.Assert;
 import org.junit.Test;
